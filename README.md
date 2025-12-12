@@ -31,6 +31,8 @@ reflects latest master.
 (中文文档在 [这里](https://github.com/casey/just/blob/master/README.中文.md),
 快看过来!)
 
+(日本語のドキュメントは[こちら](https://github.com/casey/just/blob/master/README-JA.md))
+
 Commands, called recipes, are stored in a file called `justfile` with syntax
 inspired by `make`:
 
